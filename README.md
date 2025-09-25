@@ -120,4 +120,4 @@ Simply open the index.html file in your web browser. You can use a live server e
 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by VARSHITH & TEAM
