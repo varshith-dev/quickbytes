@@ -7,11 +7,6 @@ QuickBytes - Canteen Ordering & Management System
 A modern, feature-rich, and real-time Point of Sale (POS) system designed for canteens, food trucks, and small cafes. Built with HTML, Tailwind CSS, and Firebase, QuickBytes provides a seamless experience for managing sales, inventory, and reporting.
 </p>
 
-<p align="center">
-<img alt="GitHub language count" src="https://www.google.com/search?q=https://img.shields.io/github/languages/count/your-username/your-repo-name%3Fstyle%3Dfor-the-badge%26color%3Dblue">
-<img alt="GitHub top language" src="https://www.google.com/search?q=https://img.shields.io/github/languages/top/your-username/your-repo-name%3Fstyle%3Dfor-the-badge%26color%3Dyellow">
-<img alt="License" src="https://www.google.com/search?q=https://img.shields.io/github/license/your-username/your-repo-name%3Fstyle%3Dfor-the-badge%26color%3Dgreen">
-</p>
 
 Live Demo
 (Note: The live demo link is for demonstration purposes. For full functionality, including data persistence, please follow the setup instructions below.)
